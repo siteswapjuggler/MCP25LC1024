@@ -1,0 +1,44 @@
+#######################################
+# Syntax Coloring Map For MC25LC1024
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MC25LC1024	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+writeByte	KEYWORD2
+writeArray	KEYWORD2
+readByte	KEYWORD2
+readArray	KEYWORD2
+readStatus	KEYWORD2
+writeStatus	KEYWORD2
+pageErase	KEYWORD2
+sectorErase	KEYWORD2
+chipErase	KEYWORD2
+deepPowerDown	KEYWORD2
+releasePowerDown	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+READ	LITERAL1
+WRITE	LITERAL1
+WREN	LITERAL1
+WRDI	LITERAL1
+RDSR	LITERAL1
+PE	LITERAL1
+SE	LITERAL1
+CE	LITERAL1
+RDID	LITERAL1
+DPD	LITERAL1
